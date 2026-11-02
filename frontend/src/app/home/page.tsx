@@ -1,10 +1,10 @@
 import Link from "next/link";
 
 const recentlyReviewed = [
-  { id: "house-blend", name: "House Blend Coffee", tone: "from-[#E8CFA8] to-[#B98A5B]" },
-  { id: "hydrating-toner", name: "Hydrating Toner", tone: "from-[#F3E6D3] to-[#D9B98F]" },
+  { id: "ps5", name: "PlayStation 5", tone: "from-[#E8CFA8] to-[#B98A5B]" },
+  { id: "iphone18", name: "iPhone 18", tone: "from-[#F3E6D3] to-[#D9B98F]" },
   { id: "noise-cancelling-headphones", name: "Noise-Cancelling Headphones", tone: "from-[#EAD9C6] to-[#C9A98A]" },
-  { id: "sunny-pals", name: "Sunny Pals Blind Box", tone: "from-[#F2DCC4] to-[#D8A77E]" },
+  { id: "tv", name: "100 inch TV", tone: "from-[#F2DCC4] to-[#D8A77E]" },
 ];
 
 const iconClass = "h-7 w-7 sm:h-8 sm:w-8";
